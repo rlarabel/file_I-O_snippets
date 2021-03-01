@@ -1,0 +1,9 @@
+Chaleb,10
+Carlos,15
+Christian,50
+Mekseb,25
+Ramses,99
+Chuy,69
+Gato,19
+Omar,100
+Izaac,81
